@@ -1,9 +1,3 @@
-#!/usr/local/bin/python3
-# route.py : City oute finding solver
-#
-# Code by: Yating Jiang, Walker Moskop, David Ross
-#
-
 from queue import PriorityQueue
 import sys
 import time
